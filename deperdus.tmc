@@ -4,29 +4,27 @@
         <[vec32array][ContactSpheres][ (1.732 0.662 -1.097 0.04) (1.732 -0.662 -1.097 0.04) (-2.511 0 -0.119 0.04) ]>
         <[string8][DisplayName][Deperdussin Monocoque]>
         <[string8][DescriptionTextEN][The Deperdussin Monocoque was an early racing aircraft built in 1912 by the Aéroplanes Deperdussin, a French aircraft manufacturer started in 1911 and reorganized as SPAD in 1913. It is so named because of the method of construction of its fuselage. The aircraft is noted for winning the Gordon Bennett Trophy in 1912 and 1913, and for raising the world speed record for aircraft to 130 mph (210 km/h). (from Wikipedia)
-Converted from FlightGear by Krzysztof Kaniewskiwp.pl . 3D model by Emmanuel Baranger (3D/FDM/Texture).]>
+Converted from FlightGear by Krzysztof Kaniewski. Original 3D model created by Emmanuel Baranger.]>
 		<[float64][WingSpan][6.6]>
 		<[float64][Mass][399.2]>
 		<[float64][MaximumSpeed][62.9]>
 		<[float64][MinimumSpeed][17.5]>
-        <[float64][ApproachSpeed][33.3]>
-        <[float64][CruiseSpeed]  [55.6]>
+        <[float64][ApproachSpeed][23.3]>
+        <[float64][CruiseSpeed]  [35.6]>
 		<[tmvector2d][NormalSpeedRange][ 17.5 53.5 ]>
 		<[tmvector2d][CautionSpeedRange][ 53.5 62.9 ]>
 		<[tmvector2d][FlapSpeedRange][ 0.0 0.0 ]>
         <[float64][MaximumAltitude][4715.0]>
         <[float64][CruiseAltitude] [1826.0]>
-        <[float64][QSpan][8.74]>
-        <[float64][QMass][1000.0]>
-        <[float64][QSpeed][86.0]>
-        <[float64][QPower][118000.0]>
+        <[float64][QSpan][6.6]>
+        <[float64][QMass][612.0]>
+        <[float64][QSpeed][62.9]>
+        <[float64][QPower][120000.0]>
         <[float64][QThrust][0.0]>
         <[float64][QRange][1085000.0]>
         <[float64][QRatio][0.0]>
-        <[float64][QBuild][1300]>
-        <[float64][QVirgin][1972]>
-        <[tmvector2d][FlapSettings][ (0.0 0.0) (0.5 0.26) (1.0 0.873) ]>
-        <[string8][FlapQualifier][]>
+        <[float64][QBuild][1]>
+        <[float64][QVirgin][1912]>
         <[bool][Airplane][true]>
         <[string8][Pilot][]>
     >
